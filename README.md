@@ -36,11 +36,14 @@ Edward Yang
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
 
-- Communicating with multiple clients about their needs, successfully translating client's requirements into applications.
-- Managing all database and windows forms apps using C# and SQL.
-- Implementing best practices and agile development methodologies using git and source tree. 
-- Fixing bugs in multiple in house applications, and also adding many enhancements to assist user's needs.
-- Gaining needed experience of working with a team. 
+- Currently converting windows forms apps to web applications using Angular, .NET Core and SQL. 
+- Developed an application that manages different levels of access current employees have with their access cards from HR, Executives to the Finance department. 
+- Developed an Inventory application which manages all assets employees use from laptops, tablets to desktops for the IT department. 
+- Worked productively on a claims tracker application that manages all claims for asset damages such as vehicle accidents to injuries. 
+- Communicated with multiple clients/departments about their needs, successfully translated requirements into applications.
+- Managed all database and windows forms apps using C# and SQL.
+- Implemented best practices and agile development methodologies using Git and Source Tree. 
+- Fixed bugs in multiple in house applications, also added many enhancements to assist user's needs.
 
 **Manager, E-Z Mart** _(April 2017 - October 2019, Tacoma, WA)_
 
