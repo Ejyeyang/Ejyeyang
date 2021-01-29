@@ -37,7 +37,7 @@ Edward Yang
 **Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
 
 - Currently converting windows forms apps to web applications using Angular, .NET Core and SQL. 
-- Developed an application that manages levels of access current employees have with their access cards from HR, Executives to the Finance department. 
+- Developed an application that manages levels of access current employees have with their access cards for all departments of Sefnco. 
 - Developed an inventory application which manages all assets employees use from laptops, tablets to desktops for the IT department. 
 - Worked productively on a claims tracker application that manages all claims for asset damages such as vehicle accidents to injuries. 
 - Communicated with multiple clients/departments about their needs, successfully translated requirements into applications.
