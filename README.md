@@ -47,15 +47,15 @@ Edward Yang
 
 **Manager, E-Z Mart** _(April 2017 - October 2019, Tacoma, WA)_
 
-- Processing a hundred or more cash, credit or EBT transactions daily. 
-- Managing all inventory ranging from soft drinks to tobacco products. 
+- Processed a hundred or more cash, credit or EBT transactions daily. 
+- Managed all inventory ranging from soft drinks to tobacco products. 
 - Experience with resolving difficult situations involving customers every other day.
 
 **Sales Person, AutoNation Honda of Renton** _(January 2016 - April 2017, Renton, WA)_
 
-- Utilizing central database to contact potential customers and inquire about their needs.
-- Anticipating customer requirements to present the right product to the customer.
-- Giving customized presentations to visiting customers by adapting to their different needs.
+- Utilized central database to contact potential customers and inquire about their needs.
+- Anticipated customer requirements to present the right product to the customer.
+- Provided customized presentations to visiting customers by adapting to their different needs.
 - Coming up with creative solutions to resolve day to day issues to complete challenging sales.
 
 ### _Skills/Interests_
