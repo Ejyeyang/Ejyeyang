@@ -38,7 +38,7 @@ Edward Yang
 
 - Currently converting 2 windows forms apps to web applications using Angular, .NET Core and SQL. 
 - Developed an application that manages access cards for over 175 employees across all departments of Sefnco. 
-- Developed an inventory application which manages over 2000 assets that range from server equipments, tablets,   laptops, desk tops to printers. 
+- Developed an inventory application which manages over 2000 assets that range from server equipments, tablets, laptops, desktops to printers. 
 - Worked productively on a claims tracker application that manages over 400 claims for asset damages such as vehicle accidents to injuries. 
 - Managed, debugged and also added over 30 enhancements to assist user’s needs to 7 databases and windows forms apps using C# and SQL.
 - Communicated with multiple clients/departments about their needs, successfully translated requirements into applications.
