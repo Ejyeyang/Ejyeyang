@@ -28,8 +28,8 @@ Edward Yang
 - Software Engineering AA Degree
 - NET Developer Certificate 
 - Presidents List/Deans List
-- Focused on Object Oriented Programming patterns.
-- Club OOPS – Programming club where students met to share ideas/projects not part of college cirriculum.
+- Focused on Object Oriented Programming patterns
+- Club OOPS – Programming club where students met to share ideas/projects not part of college cirriculum
 
 ### _Experience_
 -- -- 
