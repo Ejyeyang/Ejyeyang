@@ -34,7 +34,7 @@ Edward Yang
 
 ### _Experience_
 -- -- 
-**Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
+**Application Programmer, Sefnco Communications** _(October 2019 - Current, Puyallup WA)_
 
 - Develop an application that manages access cards for over 175 employees across all departments of Sefnco. 
 - Develop an inventory application which manages over 2000 assets that range from laptops to server equipments.
