@@ -36,26 +36,13 @@ Edward Yang
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - current, Puyallup WA)_
 
-- Currently converting 2 windows forms apps to web applications using Angular, .NET Core and SQL. 
-- Developed an application that manages access cards for over 175 employees across all departments of Sefnco. 
-- Developed an inventory application which manages over 2000 assets that range from server equipments, tablets, laptops, desktops to printers. 
-- Worked productively on a claims tracker application that manages over 400 claims for asset damages such as vehicle accidents to injuries. 
-- Managed, debugged and also added over 30 enhancements to assist user’s needs to 7 databases and windows forms apps using C# and SQL.
-- Communicated with multiple clients/departments about their needs, successfully translated requirements into applications.
-- Implemented best practices and agile development methodologies using Git and Source Tree.
-
-**Manager, E-Z Mart** _(April 2017 - October 2019, Tacoma, WA)_
-
-- Processed a hundred or more cash, credit or EBT transactions daily. 
-- Managed all inventory ranging from soft drinks to tobacco products. 
-- Experience with resolving difficult situations involving customers every other day.
-
-**Sales Person, AutoNation Honda of Renton** _(January 2016 - April 2017, Renton, WA)_
-
-- Utilized central database to contact potential customers and inquire about their needs.
-- Anticipated customer requirements to present the right product to the customer.
-- Provided customized presentations to visiting customers by adapting to their different needs.
-- Coming up with creative solutions to resolve day to day issues to complete challenging sales.
+- Develop an application that manages access cards for over 175 employees across all departments of Sefnco. 
+- Develop an inventory application which manages over 2000 assets that range from laptops to server equipments.
+- Develop a claims application that manages over 400 claims for asset damages, from vehicle accidents to injuries.
+- Manage, debug and added over 30 enhancements to assist user’s needs to 7 databases and windows forms apps.
+- Communicating with multiple clients about their needs, successfully translating requirements into applications.
+- Implementing best practices and agile development methodologies using Git and Source Tree.
+- Currently converting 2 windows forms apps to web applications. 
 
 ### _Skills/Interests_
 -- -- 
