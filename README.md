@@ -21,7 +21,7 @@ Edward Yang
 #### Programmer 
 ###### [ [github](https://github.com/Ejyeyang) ] . [ ejyEyang@gmail.com ] . [ 253 359 5484 ]
 
-### _Proffessional Summary_
+### _Professional Summary_
 -- -- 
 Driven, goal-oriented programmer with over 2 years of experience in the full life cycle of software development. Strong ability to quickly learn new concepts with attention to detail and a talent to communicate clearly and listen intently. Started my career as a restaurant server, moved on to managing businesses, sold cars as a salesman. Now I am a developer learning new skills on the job as well as on my own time. My skills are not contained to programming. Strengths I gained from my past roles are communication/teamwork, approachability, open-mindedness, problem solving/creativity, time management, and most of all empathy for others.    
 
