@@ -23,7 +23,7 @@ Edward Yang
 
 ### _Professional Summary_
 -- -- 
-Driven, goal-oriented programmer with over 2 years of experience in the full life cycle of software development. Strong ability to quickly learn new concepts with attention to detail and a talent to communicate clearly and listen intently. Skills are not contained only to programming. Strengths gained from roles are teamwork, approachability, open-mindedness, problem solving, creativity, and time management. 
+I create custom applications designed to reduce redundancy, minimize errors and organize data for everyday work processes. I have a strong ability to quickly learn new concepts with attention to detail, a talent to communicate clearly and listen intently in order to translate my clients requirements into software products. My productivity is driven by my goal to be a developer who can see everyday routines develop into software tools to assist you. 
 
 ### _Education_
 -- -- 
