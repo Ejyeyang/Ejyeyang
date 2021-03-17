@@ -28,7 +28,7 @@ I create custom applications designed to reduce redundancy, minimize errors and 
 ### _Education_
 -- -- 
 **Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
-
+ 
 - Software Engineering AA Degree
 - NET Developer Certificate 
 - Presidents List/Deans List
