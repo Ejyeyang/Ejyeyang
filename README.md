@@ -20,7 +20,7 @@ Edward Yang
 
 #### Programmer 
 ###### [ [github](https://github.com/Ejyeyang) ] . [ ejyEyang@gmail.com ] . [ 253 359 5484 ]
-
+ 
 ### _Professional Summary_
 -- -- 
 I create custom applications designed to reduce redundancy, minimize errors and organize data for everyday work processes. I have a strong ability to rapidly learn new concepts with attention to detail, a talent to communicate clearly and listen intently to translate my client's requirements into software products. My productivity is driven by my goal to be a developer who can see everyday routines develop into software tools to assist you.  
