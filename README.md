@@ -23,32 +23,30 @@ Edward Yang
  
 ### _Professional Summary_
 -- -- 
-I create custom applications designed to reduce redundancy, minimize errors and organize data for everyday work processes. I have a strong ability to rapidly learn new concepts with attention to detail, a talent to communicate clearly and listen intently to translate my client's requirements into software products. My productivity is driven by my goal to be a developer who can see everyday routines develop into software tools to assist you.   
+I create custom applications designed to reduce redundancy, minimize errors and organize data for everyday work processes. I have a strong ability to rapidly learn new concepts with attention to detail, a talent to communicate clearly and listen intently in order to translate my client’s requirements into software products. My productivity is driven by my goal to be a developer who can see everyday routines develop into software tools to assist you. 
 
 ### _Education_
 -- -- 
 **Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_
  
-- Software Engineering AA Degree
-- NET Developer Certificate 
-- Presidents List/Deans List
-- Focused on Object Oriented Programming patterns
-- Club OOPS – Programming club where students met to share ideas/projects not part of college cirriculum
+-	Software Engineering AA Degree (President’s List/Dean’s List)
+-	NET Developer Certificate 
+-	Focused on OOP, skilled in datastructures and algorithms, Basic knowledge of debugging tools 
+-	Club OOPS – Programming club where students meet to share ideas/projects not part of college curriculum
 
 ### _Experience_
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - Current, Puyallup WA)_
 
-- Develop an application that manages access cards for over 175 employees across all departments of Sefnco. 
-- Develop an inventory application which manages over 2000 assets that range from laptops to server equipments.
-- Develop a claims application that manages over 400 claims for asset damages, from vehicle accidents to injuries.
-- Manage, debug and added over 30 enhancements to assist user’s needs to 7 databases and windows forms apps.
-- Communicating with multiple clients about their needs, successfully translating requirements into applications.
-- Implementing best practices and agile development methodologies using Git and Source Tree.
-- Currently converting 2 windows forms apps to web applications. 
+-	Showcased over 30 enhancements that saved clients over 60 percent of time and energy.
+-	Resolved persistent bugs using agile development methodologies with ServiceNow. 
+-	Designed an application that manages access cards for 175+ employees across all departments of SEFNCO. 
+-	Developed an inventory application which manages over 4,000 assets ranging from laptops to printers.
+-	Improved claims application that manages over 400 claims for asset damages, from vehicle accidents to injuries.
+-	Communicated with multiple clients about their needs, successfully translated requirements into applications.
 
 ### _Skills/Interests_
 -- -- 
-- **Programming:** C#, Java, Sql
-- **Web Design**: Angular 2 (Javascript), HTML/CSS, bootstrap
-- **Interest:** Cloud Computing, Data Structures, Big Data, Object Oriented Programming
+- **Programming:** C# | SQL | JavaScript | Java
+- **Web Design**: Angular2+ | HTML / CSS | ASP.NET | Bootstrap
+- **Interest:** Cloud Computing | Data Structures | Big Data | Object Oriented Programming | Database
