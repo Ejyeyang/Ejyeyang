@@ -33,7 +33,7 @@ I create custom applications designed to reduce redundancy, minimize errors and 
 -	NET Developer Certificate 
 -	Focused on OOP, skilled in datastructures and algorithms, Basic knowledge of debugging tools 
 -	Club OOPS – Programming club where students meet to share ideas/projects not part of college curriculum
-
+ 
 ### _Experience_
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - Current, Puyallup WA)_
