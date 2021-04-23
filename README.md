@@ -41,7 +41,7 @@ I create custom applications designed to reduce redundancy, minimize errors and 
 -	Showcased over 30 enhancements that saved clients over 60 percent of time and energy.
 -	Resolved persistent bugs using agile development methodologies with ServiceNow. 
 -	Designed an application that manages access cards for 175+ employees across all departments of SEFNCO. 
--	Developed an inventory application which manages over 4,000 assets ranging from laptops to printers.
+-	Developed an inventory application which manages over 4,000 assets ranging from laptops to printers. 
 -	Improved claims application that manages over 400 claims for asset damages, from vehicle accidents to injuries.
 -	Communicated with multiple clients about their needs, successfully translated requirements into applications.
 
