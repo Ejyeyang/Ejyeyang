@@ -19,7 +19,7 @@ Edward Yang
 ===========
 
 #### Programmer 
-###### [ [github](https://github.com/Ejyeyang) ] . [ ejyEyang@gmail.com ] . [ 253 359 5484 ]
+###### [ [github](https://github.com/Ejyeyang) ] . [ ejyEyang@gmail.com ] . [ 253 359 5484 ] 
  
 ### _Professional Summary_
 -- -- 
