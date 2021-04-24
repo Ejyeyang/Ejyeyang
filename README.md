@@ -24,7 +24,7 @@ Edward Yang
 ### _Professional Summary_
 -- -- 
 I create custom applications designed to reduce redundancy, minimize errors and organize data for everyday work processes. I have a strong ability to rapidly learn new concepts with attention to detail, a talent to communicate clearly and listen intently in order to translate my client’s requirements into software products. My productivity is driven by my goal to be a developer who can see everyday routines develop into software tools to assist you. 
-
+ 
 ### _Education_
 -- -- 
 **Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_ 
