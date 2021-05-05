@@ -27,9 +27,9 @@ I create custom applications designed to reduce redundancy, minimize errors and 
  
 ### _Education_
 -- --  
-**Software Engineering AA DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_ 
+**Computer Programming AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_ 
  
--	Software Engineering AA Degree (President’s List/Dean’s List)
+-	Computer Programming AAT Degree (President’s List/Dean’s List)
 -	NET Developer Certificate 
 -	Focused on OOP, skilled in datastructures and algorithms, Basic knowledge of debugging tools 
 -	Club OOPS – Programming club where students meet to share ideas/projects not part of college curriculum
