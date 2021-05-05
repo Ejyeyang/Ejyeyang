@@ -30,6 +30,7 @@ I create custom applications designed to reduce redundancy, minimize errors and 
 **Computer Programming AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_ 
  
 -	Computer Programming AAT Degree (President’s List/Dean’s List)
+-	Cumulative GPA: 3.58
 -	NET Developer Certificate 
 -	Focused on OOP, skilled in datastructures and algorithms, Basic knowledge of debugging tools 
 -	Club OOPS – Programming club where students meet to share ideas/projects not part of college curriculum
