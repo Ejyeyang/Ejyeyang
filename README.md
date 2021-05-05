@@ -49,5 +49,5 @@ I create custom applications designed to reduce redundancy, minimize errors and 
 ### _Skills/Interests_
 -- -- 
 - **Programming:** C# | SQL | JavaScript | Java
-- **Web Design**: Angular2+ | HTML / CSS | ASP.NET | Bootstrap
+- **Web Design**: Angular | HTML / CSS | ASP.NET | Bootstrap
 - **Interest:** Cloud Computing | Data Structures | Big Data | Object Oriented Programming | Database
