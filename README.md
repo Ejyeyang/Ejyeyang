@@ -50,4 +50,4 @@ I strive to create custom applications designed to reduce redundancy, minimize e
 -- -- 
 - **Programming:** C# | SQL | JavaScript | Java
 - **Web Design**: Angular | HTML / CSS | ASP.NET | Bootstrap
-- **Interest:** Cloud Computing | Data Structures | Big Data | Object Oriented Programming | Database
+- **Interest:** Cloud Computing | Data Structures | Big Data | Object Oriented Programming | Database 
