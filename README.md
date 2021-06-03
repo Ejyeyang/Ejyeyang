@@ -46,7 +46,7 @@ I strive to create custom applications designed to reduce redundancy, minimize e
 -	Communicated with multiple clients about their needs, successfully translated requirements into applications.
 
 ### _Skills/Interests_
--- -- 
+-- --  
 - **Programming:** C# | SQL | JavaScript | Java
 - **Web Design**: Angular | HTML / CSS | ASP.NET | Bootstrap
 - **Interest:** Cloud Computing | Data Structures | Big Data | Object Oriented Programming | Database  
