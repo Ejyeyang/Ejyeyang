@@ -38,7 +38,7 @@ I strive to create custom applications designed to reduce redundancy, minimize e
 -- -- 
 **Application Programmer, Sefnco Communications** _(October 2019 - Current, Puyallup WA)_
 
--	Showcased over 30 enhancements that saved clients over 60 percent of time and energy.
+-	Showcased over 30 enhancements that saved clients over 60 percent of time and energy. 
 -	Resolved persistent bugs using agile development methodologies with ServiceNow. 
 -	Designed an application that manages access cards for 175+ employees across all departments of SEFNCO. 
 -	Developed an inventory application which manages over 4,000 assets ranging from laptops to printers.   
