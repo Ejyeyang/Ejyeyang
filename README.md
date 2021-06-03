@@ -27,7 +27,7 @@ I strive to create custom applications designed to reduce redundancy, minimize e
  
 ### _Education_ 
 -- --   
-**Computer Programming AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_ 
+**Computer Programming AAT DEGREE, Clover Park Technical College** _(April 2017 - December 2018, Lakewood WA)_  
  
 -	Computer Programming AAT Degree (President’s List/Dean’s List) 
 -	Cumulative GPA: 3.58
